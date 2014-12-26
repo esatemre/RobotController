@@ -1,4 +1,4 @@
-RobotController
+Robot Controller UI
 ===============
 Robot Controller UI for USARSim 
 ------------------ 
